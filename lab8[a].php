@@ -6,6 +6,7 @@ Give path localhost/visitor.php (refresh to increase count)
 4.same count is updated in visitor_count text file>
 
 
+SOURCE CODE:
 
 
 <!DOCTYPE html>
